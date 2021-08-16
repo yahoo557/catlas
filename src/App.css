@@ -1,5 +1,7 @@
 .frame{
+  top : 0;
+  left : 0;
   height: 100%;
   width: 100%;
-  background-image: url("./img/frame최종.png");
+  /* background-image: url("./img/frame최종.png"); */
 }

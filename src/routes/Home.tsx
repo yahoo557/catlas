@@ -1,10 +1,12 @@
+import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <>
       <h1>Home</h1>
-      <div>
-        카틀라스 제작기
-      </div>
+      <a href="">Member</a>
+      <a href="">News</a>
+      <a href="">Board</a>
+      <a href="">Contact</a>
     </>
   );
 }
